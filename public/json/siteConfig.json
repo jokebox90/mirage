@@ -1,0 +1,9 @@
+{
+  "navLinks": [
+    {"text": "Accueil",     "href": "#"},
+    {"text": "Blog",        "href": "#"},
+    {"text": "Contact",     "href": "#"},
+    {"text": "Inscription", "href": "#"},
+    {"text": "Connexion",   "href": "#"}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "start",
+			"problemMatcher": [],
+			"label": "react: start",
+			"detail": "react-scripts start"
+		},
+		{
+			"type": "npm",
+			"script": "build",
+			"problemMatcher": [],
+			"label": "react: build",
+			"detail": "react-scripts build"
+		},
+		{
+			"type": "npm",
+			"script": "test",
+			"problemMatcher": [],
+			"label": "react: test",
+			"detail": "react-scripts test"
+		},
+		{
+			"type": "npm",
+			"script": "eject",
+			"problemMatcher": [],
+			"label": "react: eject",
+			"detail": "react-scripts eject"
+		},
+	]
+}
